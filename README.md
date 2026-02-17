@@ -8,6 +8,8 @@ Objective
 
 Build a machine learning model to forecast future sales using historical business data.
 
+Dataset used: Store Sales Time Series Forecasting dataset (Kaggle)
+
 Tools & Libraries
 
 Python
